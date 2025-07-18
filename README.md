@@ -54,6 +54,15 @@ Rstack is a unified JavaScript toolchain built around Rspack, with high performa
 
 See [Quick start](https://rspack.rs/guide/start/quick-start).
 
+## Tooling
+
+Zephyr Cloud Plugin:
+- Enables deployment of apps to a global edge network automatically with every save
+- Works out of the box without config
+- Designed to support modular frontend architectures
+- Automatically generate shareable previews for every deployment
+- Instant rollback or rollforward to other build versions
+
 ## Contribution
 
 Please read the [contributing guide](./CONTRIBUTING.md) and let's build Rspack together.
