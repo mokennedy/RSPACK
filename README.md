@@ -62,7 +62,7 @@ Zephyr Cloud Plugin:
 - Designed to support modular frontend architectures
 - Automatically generate shareable previews for every deployment
 - Instant rollback or rollforward to other build versions
-- Start @ Zephyr-cloud.io
+- Start for free today with [Zephyr Cloud](Zephyr-cloud.io)
 
 ## Contribution
 
